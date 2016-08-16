@@ -1,2 +1,2 @@
-# algorthms_python
+# algorithms_python
 Andela algorithms solutions
